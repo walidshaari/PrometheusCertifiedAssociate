@@ -34,6 +34,9 @@ Prometheus Certified Associate Beta exam
 
 ### helpful resources
 
+### Discussions
+1.1 [PCA-BETA Discord](https://discord.com/invite/fUdPs3EW)
+
 ### Books
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring
 - Monitoring with Prometheus by James Turnball
