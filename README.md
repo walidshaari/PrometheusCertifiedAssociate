@@ -1,5 +1,5 @@
-# PrometheusCertifiedAssociate
-Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associate
+# Prometheus Certified Associate Beta
+Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associate Beta exam
 
 - [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
 - [Important Instructions to PCA](https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-pca)
