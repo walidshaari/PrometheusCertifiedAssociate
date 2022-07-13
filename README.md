@@ -1,6 +1,14 @@
 # PrometheusCertifiedAssociate
 Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associate
 
+- [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
+- [Important Instructions to PCA](https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-pca)
+- [Domains & Competencies](https://github.com/cncf/curriculum/blob/master/Prometheus_Curriculum.pdf)
+- [Exam Details](https://www.cncf.io/certification/pca/)
+- [Check System Requirements](https://syscheck.bridge.psiexams.com/)
+
+![image](https://user-images.githubusercontent.com/1757428/178691554-67d6a11f-7f1b-45a5-8de1-8a7c09d1b861.png)
+
 
 ## PCA repo topics overview
 
@@ -11,6 +19,8 @@ Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associat
   - [X] [Alerting & Dashboarding	18%](#Alerting-and-Dashboarding---18)
 
 ### Observability Concepts	- 18%
+- https://www.honeycomb.io/blog/observability-101-terminology-and-concepts/
+- 
 ### Prometheus Fundamentals - 20%
 ### PromQL- 28%
 - [Promql for humans](https://timber.io/blog/promql-for-humans/)
