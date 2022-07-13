@@ -1,4 +1,4 @@
-# Prometheus Certified Associate Beta
+# Linux Foundation Prometheus Certified Associate PCA Beta
 Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associate Beta exam
 
 - [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
