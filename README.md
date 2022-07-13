@@ -1,6 +1,14 @@
 # Linux Foundation Prometheus Certified Associate PCA Beta
 
+<p align="center">
+  <img width="240" src="https://training.linuxfoundation.org/wp-content/uploads/2022/04/Training_Badge_Prometheus_V2-2-300x300.png">
+</p>
+
 Prometheus Certified Associate (PCA) Certification
+### Exam Brief 
+- Duration - 90 minutes 
+- Cost - $250, with a free retake within the year. This registration is valid for 12 months from the date of purchase, or when your corporate subscription expires (whichever happens first).
+- Certification validity: three (3) years
 
 Prometheus Certified Associate Beta exam
 
@@ -34,6 +42,8 @@ Prometheus Certified Associate Beta exam
 ### Alerting & Dashboarding	18%](#Alerting-and-Dashboarding---18)
 
 ### helpful resources
+- [A brief illustrated history of prometheus](https://fusakla.cz/presentations/brief-illustrated-history-of-prometheus)
+- [Ivan Articles on Observability and Prometheus](https://iximiuz.com/en/categories/?category=Observability)
 
 ### Discussions
 1. [PCA-BETA Discord](https://discord.com/invite/fUdPs3EW)
@@ -47,4 +57,7 @@ Prometheus Certified Associate Beta exam
 1. [Linux Foundation official course LFS241 monitoring systems and services with prometheus ](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
 1. [PluralSight/acloud guru Prometheus deep dive](https://acloudguru.com/course/prometheus-deep-dive)
 
-
+### Interactive Scenarios 
+- [Sysdig Hands on Interactive Scenarios](https://learn.sysdig.com/page/open-source)
+- [promlabs](https://demo.promlabs.com)
+- [promlens](https://demo.promlens.com)
