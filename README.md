@@ -22,12 +22,13 @@ Prometheus Certified Associate Beta exam
   - [X] [Alerting & Dashboarding	18%](#Alerting-and-Dashboarding---18)
 
 ### Observability Concepts	- 18%
-- https://www.honeycomb.io/blog/observability-101-terminology-and-concepts/
-- 
+1. https://www.honeycomb.io/blog/observability-101-terminology-and-concepts/
+1. https://opensource.com/article/19/10/open-source-observability-kubernetes
+
 ### Prometheus Fundamentals - 20%
 ### PromQL- 28%
-- [Promql for humans](https://timber.io/blog/promql-for-humans/)
-- [Promql cheat sheet](https://promlabs.com/promql-cheat-sheet/)
+1. [Promql for humans](https://timber.io/blog/promql-for-humans/)
+1. [Promql cheat sheet](https://promlabs.com/promql-cheat-sheet/)
 
 ### Instrumentation and Exporters	16%](#Instrumentation and Exporters---16)
 ### Alerting & Dashboarding	18%](#Alerting-and-Dashboarding---18)
@@ -35,7 +36,7 @@ Prometheus Certified Associate Beta exam
 ### helpful resources
 
 ### Discussions
-1.1 [PCA-BETA Discord](https://discord.com/invite/fUdPs3EW)
+1. [PCA-BETA Discord](https://discord.com/invite/fUdPs3EW)
 
 ### Books
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring
