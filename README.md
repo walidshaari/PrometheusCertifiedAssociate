@@ -7,7 +7,7 @@
 Prometheus Certified Associate (PCA) Certification
 ### Exam Brief 
 - Duration - 90 minutes 
-- Cost - $250 One (1) year exam eligibility, with a free retake within the year.
+- Cost - $250, with a free retake within the year. This registration is valid for 12 months from the date of purchase, or when your corporate subscription expires (whichever happens first).
 - Certification validity: three (3) years
 
 Prometheus Certified Associate Beta exam
