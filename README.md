@@ -35,6 +35,14 @@ Prometheus Certified Associate Beta exam
 
 ### Prometheus Fundamentals - 20%
 ### PromQL- 28%
+#### Selecting Data
+1. [Promlabs blog selecting data in promql](https://promlabs.com/blog/2020/07/02/selecting-data-in-promql)
+#### Rates and Derivatives
+#### Aggregating over time
+#### Agreegating over Dimension
+#### Binary Operators
+#### Histograms
+#### Timestamp Metrics
 1. [Promql for humans](https://timber.io/blog/promql-for-humans/)
 1. [Promql cheat sheet](https://promlabs.com/promql-cheat-sheet/)
 
