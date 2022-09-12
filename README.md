@@ -14,7 +14,7 @@ Prometheus Certified Associate Beta exam
 
 - [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
 - [Important Instructions to PCA](https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-pca)
-- [Domains & Competencies](https://github.com/cncf/curriculum/blob/master/Prometheus_Curriculum.pdf)
+- [Domains & Competencies](https://github.com/cncf/curriculum/blob/master/PCA_Curriculum.pdf)
 - [Exam Details](https://www.cncf.io/certification/pca/)
 - [Check System Requirements](https://syscheck.bridge.psiexams.com/)
 
